@@ -9,7 +9,27 @@ FolderUtils-Download-Java-Files
 
 [Kaory Studios Discord](https://discord.gg/Gw7m8kC), Support Kaoty Studios
 
-## Using:
+## Maven:
+
+### Repository:
+```xml
+<repository>
+    <id>jitpack.io</id>
+    <url>https://jitpack.io</url>
+</repository>
+```
+
+### Dependency:
+```xml
+<dependency>
+    <groupId>com.github.happyrogelio7</groupId>
+    <artifactId>FolderUtilsDownloadJavaFiles</artifactId>
+    <version>1.0.0</version>
+</dependency>
+```
+
+:
+
 ```java
 
 
