@@ -18,7 +18,7 @@ public class FolderDownloadUtils {
      * Code by HappyRogelio7
      * Github: https://github.com/HappyRogelio7
      * License: MIT
-     * Version: 1.0
+     * Version: 1.0.1
      * Last update: 2021-05-10
      * Description: This class is used to download files from the internet
      * and save them in the specified path.

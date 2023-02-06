@@ -6,7 +6,7 @@
 
     <groupId>com.github.happyrogelio7</groupId>
     <artifactId>FolderUtils-Download-Java-Files</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
@@ -33,5 +33,6 @@
         </plugins>
 
     </build>
+
 
 </project>
