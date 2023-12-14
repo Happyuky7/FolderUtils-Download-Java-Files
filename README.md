@@ -4,10 +4,10 @@ FolderUtils-Download-Java-Files
 | [English](README.md)  | [Español](README_ES.md) | [German](README_DE.md) | [Japanese](README_JP.md) |
 |------| ---- | ---- | ---- |
 
-[![GitHub release](https://img.shields.io/github/release/happyrogelio7/FolderUtils-Download-Java-Files.svg)](https://github.com/HappyRogelio7/FolderUtils-Download-Java-Files/releases/tag/1.0.1)
-[![GitHub issues](https://img.shields.io/github/issues/happyrogelio7/FolderUtils-Download-Java-Files.svg)](https://github.com/HappyRogelio7/FolderUtils-Download-Java-Files/issues)
-[![GitHub license](https://img.shields.io/github/license/happyrogelio7/FolderUtils-Download-Java-Files.svg)](https://github.com/HappyRogelio7/FolderUtils-Download-Java-Files/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/happyrogelio7/FolderUtils-Download-Java-Files.svg)]()
+[![GitHub release](https://img.shields.io/github/release/Happyuky7/FolderUtils-Download-Java-Files.svg)](https://github.com/Happyuky7/FolderUtils-Download-Java-Files/releases/tag/1.0.1)
+[![GitHub issues](https://img.shields.io/github/issues/Happyuky7/FolderUtils-Download-Java-Files.svg)](https://github.com/Happyuky7/FolderUtils-Download-Java-Files/issues)
+[![GitHub license](https://img.shields.io/github/license/Happyuky7/FolderUtils-Download-Java-Files.svg)](https://github.com/Happyuky7/FolderUtils-Download-Java-Files/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/Happyuky7/FolderUtils-Download-Java-Files.svg)]()
 
 [My website](https://happyrogelio7.xyz), My website 
 
@@ -82,7 +82,7 @@ Inside the "try", you import the class and the downloadFile option as shown belo
 
 In the first part we put the URL that downloads the file example: 
 
-"https://github.com/HappyRogelio7/FolderUtils-Download-Java-Files/releases/download/1.0.1/FolderUtils-Download-Java-Files.jar" 
+"https://github.com/Happyuky7/FolderUtils-Download-Java-Files/releases/download/1.0.1/FolderUtils-Download-Java-Files.jar" 
 
 in case it doesn't end with ".file extension" it won't work.
 
