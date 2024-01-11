@@ -1,4 +1,4 @@
-package com.github.happyrogelio7;
+package com.github.happyuky7;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -15,15 +15,15 @@ import java.nio.file.StandardCopyOption;
 public class FolderDownloadUtils {
 
     /**
-     * Code by HappyRogelio7
-     * Github: https://github.com/HappyRogelio7
+     * Code by Happyuky7
+     * Github: https://github.com/Happyuky7
      * License: MIT
-     * Version: 1.0.1
-     * Last update: 2021-05-10
+     * Version: 1.0.2
+     * Last update: 2024-11-01
      * Description: This class is used to download files from the internet
      * and save them in the specified path.
-     * Link: https://github.com/HappyRogelio7/FolderUtils-Download-Java-Files
-     * Documentation: https://github.com/HappyRogelio7/FolderUtils-Download-Java-Files
+     * Link: https://github.com/Happyuky7/FolderUtils-Download-Java-Files
+     * Documentation: https://github.com/Happyuky7/FolderUtils-Download-Java-Files
      */
 
     /**

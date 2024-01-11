@@ -30,7 +30,7 @@ FolderUtils-Download-Java-Files
 ### Dependency:
 ```xml
 <dependency>
-    <groupId>com.github.happyrogelio7</groupId>
+    <groupId>com.github.happyuky7</groupId>
     <artifactId>FolderUtils-Download-Java-Files</artifactId>
     <version>1.0.1</version>
 </dependency>
@@ -48,7 +48,7 @@ repositories {
 ### Dependency:
 ```groovy
 dependencies {
-    implementation 'com.github.happyrogelio7:FolderUtils-Download-Java-Files:1.0.1'
+    implementation 'com.github.happyuky7:FolderUtils-Download-Java-Files:1.0.1'
 }
 ```
 
@@ -106,7 +106,7 @@ The result of the example would be:
 
 ```java
 
-import com.github.happyrogelio7.testdownload;
+import com.github.happyuky7.testdownload;
 
 public class Main {
 
